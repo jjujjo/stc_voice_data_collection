@@ -9,7 +9,7 @@
 حملت الـ update من الـ App Store الليلة.,"update, App Store"
 شغّلت الـ WiFi وربطت الـ laptop بسرعة.,"WiFi, laptop"
 استخدمنا Slack للتواصل بين الفريق طول اليوم.,Slack
-عملنا merge للـ branch في Git بعد المراجعة.,"merge, branch, Git"
+سوينا merge للـ branch في Git بعد المراجعة.,"merge, branch, Git"
 فتحت ticket في Jira عشان أبلغ عن المشكلة.,"ticket, Jira"
 شفت error في الـ log file وقفلت السيرفر.,"error, log file"
 سويت backup للـ database قبل التحديث.,"backup, database"
@@ -22,22 +22,22 @@
 حطيت الـ token في الـ environment variables.,"token, environment variables"
 اشتغلنا على الـ backend وخلينا الـ frontend لبكرة.,"backend, frontend"
 سويت push للتعديلات وانتظرت الـ CI يخلص.,"push, CI"
-الـ query بطيء لازم نعمل له optimize.,"query, optimize"
+الـ query بطيء لازم نسوي له optimize.,"query, optimize"
 فتحنا الـ terminal وشغلنا الـ script مباشرة.,"terminal, script"
-لازم نعمل test للـ feature قبل ما نطلعها.,"test, feature"
+لازم نسوي test للـ feature قبل ما نطلعها.,"test, feature"
 ليش الـ container ما يشتغل؟ لازم نتأكد من الـ Docker.,"container, Docker"
 رفعنا الـ build الجديد على staging قبل production.,"build, staging, production"
 سويت debug للكود عشان ألقى مصدر المشكلة.,debug
 اتصلنا بالـ API الخارجي وجبنا الـ response.,"API, response"
 الفريق يستخدم Notion لتوثيق الـ documentation.,"Notion, documentation"
-عملنا setup لبيئة العمل على الـ cloud.,"setup, cloud"
+سوينا setup لبيئة العمل على الـ cloud.,"setup, cloud"
 الـ pipeline توقف بسبب خطأ في الـ config ! لازم نصلحه الحين.,"pipeline, config"
 حدثنا الـ dependencies عشان نتفادى مشاكل الأمان.,dependencies
 سويت clone للمشروع من الـ repository.,"clone, repository"
 الـ function ترجع null بدل القيمة الصحيحة.,"function, null"
 اشتغلنا بنظام Agile وسوينا sprint جديد.,"Agile, sprint"
 الـ frontend يتكلم مع الـ backend عن طريق REST API.,"frontend, backend, REST API"
-لازم نعمل refactor للكود عشان يصير أنظف.,refactor
+لازم نسوي refactor للكود عشان يصير أنظف.,refactor
 سويت commit ورسالته كانت واضحة.,commit
 عندنا اجتماع standup الساعة تسعة الصبح.,standup
 الموقع يحتاج caching عشان يصير أسرع.,caching
@@ -46,22 +46,22 @@
 الفريق التقني يشتغل على migration للـ database الجديدة.,"migration, database"
 نزلت story جديدة على الـ Instagram الصبح.,"story, Instagram"
 ليش الفيديو صار trending على TikTok بسرعة كذا؟,"trending, TikTok"
-عملت repost للـ tweet اللي عجبني.,"repost, tweet"
+سويت repost للـ tweet اللي عجبني.,"repost, tweet"
 زاد عدد الـ followers بعد الـ collab.,"followers, collab"
 حطيت hashtag جديد عشان يوصل المحتوى أكثر.,hashtag
 الحساب صار verified بعد سنتين انتظار.,verified
 سويت live على Snapchat وتفاعل الناس زين.,"live, Snapchat"
 الريلز حصلت views كثير بليلة وحدة.,"reels, views"
-عملت block لحساب مزعج على X.,"block, X"
+سويت block لحساب مزعج على X.,"block, X"
 الـ engagement على المنشور قليل هالأسبوع.,engagement
 رفعت highlight جديد على البروفايل.,highlight
-عملت share للمنشور في الـ group.,"share, group"
+سويت share للمنشور في الـ group.,"share, group"
 الخوارزمية algorithm تفضل الفيديوهات القصيرة.,algorithm
 سويت poll في الـ story عشان أعرف رأيهم.,"poll, story"
-الحساب انعمله suspend بدون سبب واضح، للأسف!,suspend
+صار على الحساب suspend بدون سبب واضح، للأسف!,suspend
 نزلت reel وحطيت caption مضحك.,"reel, caption"
 الـ comments تحت البوست كلها إيجابية.,comments
-عملت follow للحساب الجديد اللي فتحوه.,follow
+سويت follow للحساب الجديد اللي فتحوه.,follow
 الترند اللي صار الأسبوع هذا كان عن الذكاء الاصطناعي.,trend
 سويت mute لقروب الواتساب لأنه مزعج.,mute
 الفيديو انتشر واخذ فيرال viral بسرعة.,viral
@@ -75,15 +75,15 @@
 الإعلان كان targeted لفئة معينة من الناس.,targeted
 رفعت thread طويل يشرح الموضوع بالتفصيل.,thread
 سويت screenshot للمحادثة قبل ما يمسحها.,screenshot
-المؤثر عمل review صادق عن المنتج.,review
+المؤثر سوى review صادق عن المنتج.,review
 الحساب صار له content calendar واضح.,content calendar
 الميم اللي نزلته انتشر بسرعة رهيبة بين الشباب!,meme
 سويت pin لتعليق مهم فوق البوست.,pin
 الخوارزمية غيرت الـ feed تبعي تمامًا.,feed
 المحتوى صار أكثر engaging بعد التعديل.,engaging
-عملت subscribe لقناته الجديدة على YouTube.,"subscribe, YouTube"
+سويت subscribe لقناته الجديدة على YouTube.,"subscribe, YouTube"
 الـ analytics تبع الحساب طلعت أرقام زينة.,analytics
-عملنا collab مع حساب ثاني بنفس المجال.,collab
+سوينا collab مع حساب ثاني بنفس المجال.,collab
 أرسلت الـ email وانتظرت الرد.,email
 عندنا meeting الساعة عشرة الصبح.,meeting
 حضرت الـ presentation وكانت واضحة جدًا.,presentation
@@ -91,12 +91,12 @@
 رديت على الرسالة في Teams بسرعة.,Teams
 سويت follow up مع العميل بخصوص العرض.,follow up
 الـ report جاهز وبس ينتظر الموافقة.,report
-عملنا schedule لاجتماع الأسبوع الجاي.,schedule
+سوينا schedule لاجتماع الأسبوع الجاي.,schedule
 المدير طلب منا نرسل update يومي عن التقدم.,update
 سويت CC للمدير في الإيميل عشان يكون على اطلاع.,CC
 الاجتماع تحول إلى conference call بسبب السفر.,conference call
 لازم نجهز الـ agenda قبل الاجتماع.,agenda
-عملت attach للملف قبل ما أرسل الإيميل.,attach
+سويت attach للملف قبل ما أرسل الإيميل.,attach
 طلبوا مني أسوي draft للعقد الجديد.,draft
 الفريق يحتاج feedback واضح على العرض الحين!,feedback
 أرسلت الدعوة على Outlook للحضور.,Outlook
@@ -106,7 +106,7 @@
 المشروع لازم يكون aligned مع أهداف الإدارة.,aligned
 طلب مني المدير أسوي recap للاجتماع.,recap
 الفريق يحتاج ينسق عن طريق kickoff meeting.,kickoff meeting
-عملت approve على الطلب المالي.,approve
+سويت approve على الطلب المالي.,approve
 الشركة سوت onboarding سريع للموظف الجديد.,onboarding
 لازم نرفع الملف على SharePoint قبل الظهر.,SharePoint
 طلبوا منا تحديث الـ roadmap للربع الجاي.,roadmap
@@ -128,7 +128,7 @@
 الـ WiFi مقطوع من الصبح، ليش محد يدري السبب؟!,WiFi
 حملت الـ app الجديد وحذفت القديم.,app
 سويت restart للراوتر عشان يرجع النت.,restart
-لازم أعمل update للنظام قبل النوم.,update
+لازم أسوي update للنظام قبل النوم.,update
 الشاشة صارت تعلق لازم أسوي reset.,reset
 وصلت سماعاتي بالـ Bluetooth بسهولة.,Bluetooth
 الـ notification ما توقف من كثر التطبيقات، أعصابي تعبت!,notification
@@ -146,7 +146,7 @@
 الطابعة ما توصل بالـ WiFi رغم المحاولات.,WiFi
 الـ storage خلص لازم أمسح صور قديمة.,storage
 الجوال يسخن وقت الـ charging بشكل غريب.,charging
-عملت sync بين الجوال واللابتوب.,sync
+سويت sync بين الجوال واللابتوب.,sync
 الجهاز يدعم fingerprint وأنا أفضله عن الرقم السري.,fingerprint
 سوّ hard reboot الحين بعد ما تجمد النظام!,reboot
 الـ signal ضعيف داخل المبنى دايمًا.,signal
@@ -159,7 +159,7 @@
 الجهاز أصلاً معطل من كثر التحديثات، لازم أسوي rollback.,rollback
 الساعة الذكية تعطيني notification كل ما توصلني رسالة.,notification
 عندي مشكلة في الـ GPS ما يحدد موقعي صح.,GPS
-الجوال دايم يعمل lag وقت فتح التطبيقات.,lag
+الجوال دايم يسوي lag وقت فتح التطبيقات.,lag
 سويت disable للإشعارات المزعجة.,disable
 الجهاز يحتاج driver جديد عشان يشتغل الطابعة.,driver
 لازم أسوي uninstall للتطبيقات اللي ما أستخدمها.,uninstall
@@ -178,7 +178,7 @@
 الكافيه يقدم delivery للمنازل القريبة.,delivery
 طلبت Careem عشان أوصل السوق بسرعة.,Careem
 اشتركت في gym جديد قريب من البيت.,gym
-عملت subscription شهري لتطبيق التمارين.,subscription
+سويت subscription شهري لتطبيق التمارين.,subscription
 جربت وجبة جديدة من مطعم يقدم fusion food.,fusion food
 حجزت appointment عند الدكتور عن طريق التطبيق.,appointment
 الفندق يقدم checkout متأخر إذا طلبت.,checkout
@@ -203,7 +203,7 @@
 حجزت جلسة massage بعد أسبوع طويل.,massage
 اشتريت اشتراك بونصف سعر بفضل promo code.,promo code
 المقهى يقدم قهوة specialty فيها نكهات مختلفة.,specialty
-عملت check-in مبكر عن طريق التطبيق.,check-in
+سويت check-in مبكر عن طريق التطبيق.,check-in
 حصلت على voucher مجاني بعد الشكوى.,voucher
 اشتريت بطاقة gift عشان أهديها لأختي.,gift
 عندي reward points من بطاقة الائتمان.,reward points
@@ -228,14 +228,14 @@
 اشتريت من Amazon وكان التوصيل سريع.,Amazon
 المنتج جاء بحالة damaged فطلبت استرجاع.,damaged
 استخدمت filter عشان ألقى مقاسي بسرعة.,filter
-عملت refund للطلب لأنه تأخر كثير.,refund
+سويت refund للطلب لأنه تأخر كثير.,refund
 المتجر يقدم cashback إذا دفعت بالبطاقة.,cashback
 تابعت tracking number عشان أعرف وين الطرد.,tracking number
 اشتريت من متجر Shein عرضهم كان مغري.,Shein
 سويت subscribe للنشرة عشان أعرف بالعروض.,subscribe
 المنتج له warranty لمدة سنة كاملة.,warranty
 الموقع يقدم installment بدون فوائد.,installment
-عملت compare بين سعر المتجر والمتجر المنافس.,compare
+سويت compare بين سعر المتجر والمتجر المنافس.,compare
 المنتج معروض بخصم flash sale لساعات محدودة.,flash sale
 أضفت بطاقتي في الـ payment method.,payment method
 الطلب صار confirmed بعد ما دفعت.,confirmed
@@ -243,7 +243,7 @@
 سويت return للمنتج بعد ما جربته يوم.,return
 البائع أرسل invoice مع الطرد.,invoice
 الموقع فيه bug ما يخليني أكمل الدفع، محبط جدًا!,bug
-عملت order من تطبيق Jarir للأدوات المكتبية.,"Jarir, order"
+سويت order من تطبيق Jarir للأدوات المكتبية.,"Jarir, order"
 سويت checkout كضيف بدون تسجيل حساب.,checkout
 المنتج له variant بألوان مختلفة.,variant
 حصلت على voucher بعد أول عملية شراء.,voucher
@@ -258,18 +258,18 @@
 وصلتني SMS من البنك تأكد العملية.,SMS
 سويت screenshot للمحادثة قبل ما تنحذف.,screenshot
 حملت تطبيق جديد من الـ Play Store.,Play Store
-عملت install للتطبيق وواجهت مشكلة.,install
+سويت install للتطبيق وواجهت مشكلة.,install
 سويت uninstall للتطبيق لأنه يبطئ الجوال.,uninstall
 الجوال يعطيني notification كل شوي.,notification
-عملت update للتطبيق عشان أحل المشكلة.,update
+سويت update للتطبيق عشان أحل المشكلة.,update
 أرسلت الملف عن طريق Bluetooth بسرعة.,Bluetooth
 حفظت الرقم في الـ contacts مباشرة.,contacts
 سويت backup لبيانات الواتساب على الـ cloud.,"backup, cloud"
 الجوال ما يستقبل notification من التطبيق.,notification
-عملت mute لمجموعة الواتساب المزعجة.,mute
+سويت mute لمجموعة الواتساب المزعجة.,mute
 أرسلت voice note بدل ما أكتب رسالة.,voice note
 حذفت الرسائل القديمة عشان أفضي storage.,storage
-عملت forward للرسالة لصديقي.,forward
+سويت forward للرسالة لصديقي.,forward
 الجوال يدعم dual SIM وهذا يسهل علي كثير.,dual SIM
 سويت restore للنسخة الاحتياطية بعد ما فقدت البيانات.,restore
 الجوال يحتاج تحديث لنظام iOS الجديد.,iOS
@@ -277,25 +277,25 @@
 عندي مشكلة في الـ sync بين الجوال والإيميل.,sync
 الجوال يعطيني تنبيه low battery باستمرار، يا ربي!,low battery
 سويت pair بين السماعة والجوال بسهولة.,pair
-عملت clear للـ cache عشان يشتغل أسرع.,cache
+سويت clear للـ cache عشان يشتغل أسرع.,cache
 أرسلت الموقع عن طريق location share.,location share
 الجوال يدعم face ID بدل البصمة.,face ID
 سويت block لرقم مزعج يتصل باستمرار.,block
 حملت آخر نسخة من تطبيق Snapchat.,Snapchat
-الجوال صار يعمل freeze بسبب كثرة التطبيقات.,freeze
-عملت restart سريع للجوال بعد ما تعلق.,restart
+الجوال صار يسوي freeze بسبب كثرة التطبيقات.,freeze
+سويت restart سريع للجوال بعد ما تعلق.,restart
 الرسالة ما توصل بسبب ضعف الـ signal.,signal
 سويت export لجهات الاتصال قبل تغيير الجوال.,export
 الجوال يدعم NFC للدفع السريع.,NFC
-عملت verify لرقمي بعد ما نزلت التطبيق.,verify
+سويت verify لرقمي بعد ما نزلت التطبيق.,verify
 الرسالة الصوتية ما توصل بسبب مشكلة في upload.,upload
 الجوال طلب مني permission قبل ما يفتح الكاميرا.,permission
 سويت download لكل الصور قبل تغيير الجوال.,download
 الجوال يدعم split screen للتطبيقين مع بعض.,split screen
-عملت report لحساب مزيف يتصل بالناس.,report
+سويت report لحساب مزيف يتصل بالناس.,report
 الجوال ما يفتح التطبيق إلا بعد update إجباري.,update
 فعّل الـ hotspot عشان تشارك النت مع جهازك الثاني!,hotspot
 الجوال يدعم wireless charging وهذا يريحني كثير.,wireless charging
-عملت transfer للملفات بين الجوالين بسرعة.,transfer
+سويت transfer للملفات بين الجوالين بسرعة.,transfer
 الجوال أعطاني تحذير storage almost full.,storage
 سويت setup لبريدي الإلكتروني على الجوال الجديد.,setup
