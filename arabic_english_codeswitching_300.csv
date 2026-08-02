@@ -31,7 +31,7 @@
 اتصلنا بالـ API الخارجي وجبنا الـ response.,"API, response"
 الفريق يستخدم Notion لتوثيق الـ documentation.,"Notion, documentation"
 عملنا setup لبيئة العمل على الـ cloud.,"setup, cloud"
-الـ pipeline توقف بسبب خطأ في الـ config! لازم نصلحه الحين.,"pipeline, config"
+الـ pipeline توقف بسبب خطأ في الـ config ! لازم نصلحه الحين.,"pipeline, config"
 حدثنا الـ dependencies عشان نتفادى مشاكل الأمان.,dependencies
 سويت clone للمشروع من الـ repository.,"clone, repository"
 الـ function ترجع null بدل القيمة الصحيحة.,"function, null"
@@ -42,7 +42,7 @@
 عندنا اجتماع standup الساعة تسعة الصبح.,standup
 الموقع يحتاج caching عشان يصير أسرع.,caching
 حصل conflict وقت الـ merge لازم نحله يدوي.,"conflict, merge"
-جرب تستخدم Postman عشان تختبر الـ API!,"Postman, API"
+جرب تستخدم Postman عشان تختبر الـ API !,"Postman, API"
 الفريق التقني يشتغل على migration للـ database الجديدة.,"migration, database"
 نزلت story جديدة على الـ Instagram الصبح.,"story, Instagram"
 ليش الفيديو صار trending على TikTok بسرعة كذا؟,"trending, TikTok"
@@ -210,7 +210,7 @@
 جربت تطبيق جديد يعطيني daily deals.,daily deals
 اشتركت في خدمة delivery مجانية لمدة شهر.,delivery
 حطيت المنتج في الـ cart وما كملت الطلب.,cart
-وصلت لمرحلة الـ checkout، بس ليش الموقع يتوقف كل مرة؟,checkout
+وصلت لمرحلة الـ checkout ، بس ليش الموقع يتوقف كل مرة؟,checkout
 استخدمت coupon عشان أوفر شوي بالسعر.,coupon
 صار sale كبير على المتجر اليوم.,sale
 الشحن كان مجاني بسبب عرض shipping.,shipping
@@ -254,7 +254,7 @@
 الطلب انلغى تلقائيًا بسبب مشكلة في الـ payment.,payment
 المتجر يقدم exchange مجاني خلال ١٤ يوم.,exchange
 سويت browse للمنتجات قبل ما أقرر أشتري.,browse
-أرسلت له رسالة على WhatsApp، ليش ما رد لين الحين؟,WhatsApp
+أرسلت له رسالة على WhatsApp ، ليش ما رد لين الحين؟,WhatsApp
 وصلتني SMS من البنك تأكد العملية.,SMS
 سويت screenshot للمحادثة قبل ما تنحذف.,screenshot
 حملت تطبيق جديد من الـ Play Store.,Play Store
